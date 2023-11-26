@@ -5,4 +5,4 @@ Home:
 <img src="imggit/Home1.PNG">
 
 Home diminuída em tamanho:
-<img src="imggit/Home-menor.PNG">
+<img src="imggit/home-menor.PNG">
